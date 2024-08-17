@@ -9,7 +9,7 @@ bot:
   # Note that performance will be dreaded and you can't set each config for each cloned bot
   # Config data of each bot will be the same
   TOKEN: 'Bot Token 1'
-  EMBED_COLOR: '#2B2D31'
+  EMBED_COLOR: '#2aace8'
   OWNER_ID: 'Your User ID'
   ADMIN: ['<your_trusted_admin_discord_id_here>']
   # You can set it to en, vi...
@@ -20,9 +20,9 @@ player:
   SPOTIFY:
     # Your Spotify ID and Secret, you can get it from here: https://developer.spotify.com
     # If you don't have or don't want, you can disable it
-    enable: false
-    id: ''
-    secret: ''
+    enable: true
+    id: '37434c63a1ea4e05a76ecbeb0cc4fa60'
+    secret: '9f547e53321d47619a2ccc18ac32e54e'
 
   # Default search suggestion for auto complete, leave it empty will use default
   AUTOCOMPLETE_SEARCH: ['yorushika', 'yoasobi', 'tuyu', 'hinkik']
