@@ -1,7 +1,7 @@
 ### Help command!
 intro1: "・**%{bot}** is an advanced music bot with rich features!"
-intro2: "・Powered by **RainyXeon**"
-intro3: "・Partnered with **1sT - Services**"
+intro2: "・Developed by **Nomerk**"
+intro3: "・TIKTOK **Nico Lie**"
 prefix: "・**Bot Prefix:** %{prefix}"
 ver: "・**Bot Version:** `%{botver}`"
 djs: "・**Discord.js:** `%{djsver}`"
