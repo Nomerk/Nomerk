@@ -8,8 +8,8 @@ export default class {
     client.user!.setPresence({
       activities: [
         {
-          name: `v${client.metadata.version} | /play`,
-          type: 2,
+          name: `NEVERMIND`,
+          type: 0,
         },
       ],
       status: 'online',
